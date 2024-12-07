@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Jully_dialog.png">
+<SubTexture name="Jully_dialog amazed0000" x="0" y="0" width="448" height="670" frameX="-875" frameY="-292" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="Jully_dialog angry0000" x="448" y="0" width="651" height="670" frameX="-672" frameY="-292" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="Jully_dialog annoyed0000" x="1099" y="0" width="448" height="670" frameX="-875" frameY="-292" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="Jully_dialog really_angry0000" x="0" y="670" width="448" height="670" frameX="-875" frameY="-292" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="Jully_dialog shocked0000" x="448" y="670" width="448" height="670" frameX="-875" frameY="-292" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="Jully_dialog smug0000" x="896" y="670" width="448" height="670" frameX="-875" frameY="-292" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="Jully_dialog worried0000" x="1547" y="0" width="448" height="670" frameX="-875" frameY="-292" frameWidth="2560" frameHeight="1400" />
+</TextureAtlas>

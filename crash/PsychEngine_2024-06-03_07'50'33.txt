@@ -1,0 +1,17 @@
+flixel/FlxSprite.hx (line 1297)
+flixel/FlxSprite.hx (line 1230)
+flixel/FlxSprite.hx (line 795)
+objects/Character.hx (line 458)
+flixel/group/FlxGroup.hx (line 163)
+flixel/group/FlxSpriteGroup.hx (line 217)
+flixel/group/FlxGroup.hx (line 163)
+flixel/FlxState.hx (line 98)
+flixel/FlxGame.hx (line 871)
+flixel/FlxGame.hx (line 563)
+openfl/events/EventDispatcher.hx (line 444)
+openfl/display/DisplayObject.hx (line 1400)
+
+Uncaught Error: Null Object Reference
+Please report this error to the GitHub page: https://github.com/ShadowMario/FNF-PsychEngine
+
+> Crash Handler written by: sqirra-rng

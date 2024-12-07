@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Athena.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="annoyed0000" x="0" y="0" width="547" height="586" pivotX="218" pivotY="222.6"/>
+	<SubTexture name="beaten0000" x="547" y="0" width="547" height="586" pivotX="218" pivotY="222.6"/>
+	<SubTexture name="daring0000" x="1094" y="0" width="547" height="586" pivotX="218" pivotY="222.6"/>
+	<SubTexture name="grin0000" x="1641" y="0" width="547" height="586" pivotX="218" pivotY="222.6"/>
+	<SubTexture name="losing0000" x="2188" y="0" width="547" height="586" pivotX="218" pivotY="222.6"/>
+	<SubTexture name="mad0000" x="2735" y="0" width="547" height="586" pivotX="218" pivotY="222.6"/>
+	<SubTexture name="neutral0000" x="3282" y="0" width="547" height="586" pivotX="218" pivotY="222.6"/>
+	<SubTexture name="pissed0000" x="0" y="586" width="547" height="586" pivotX="218" pivotY="222.6"/>
+	<SubTexture name="proud0000" x="547" y="586" width="547" height="586" pivotX="218" pivotY="222.6"/>
+	<SubTexture name="smirk0000" x="1094" y="586" width="547" height="586" pivotX="218" pivotY="222.6"/>
+	<SubTexture name="talk0000" x="1641" y="586" width="547" height="586" pivotX="218" pivotY="222.6"/>
+	<SubTexture name="upset0000" x="2188" y="586" width="547" height="586" pivotX="218" pivotY="222.6"/>
+</TextureAtlas>

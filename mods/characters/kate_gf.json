@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				400,
+				196
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "gfdanceleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				400,
+				196
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "gfdanceright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kate_GF",
+	"position": [
+		-380,
+		20
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}

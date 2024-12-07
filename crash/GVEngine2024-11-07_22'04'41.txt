@@ -1,0 +1,14 @@
+lime/utils/Log.hx (line 37)
+lime/utils/Assets.hx (line 138)
+lime/utils/Assets.hx (line 244)
+backend/Song.hx (line 114)
+states/FreeplayState.hx (line 314)
+flixel/FlxState.hx (line 239)
+flixel/FlxGame.hx (line 750)
+flixel/FlxGame.hx (line 680)
+flixel/FlxGame.hx (line 559)
+
+Uncaught Error: [lime.utils.Assets] ERROR: There is no TEXT asset with an ID of "assets/shared/data/??/?-hard.json"
+Please report this error to the GitHub page: https://github.com/ShadowMario/FNF-PsychEngine
+
+> Crash Handler written by: sqirra-rng

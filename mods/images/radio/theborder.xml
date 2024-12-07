@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="theborder.png">
+    <!-- Created using the Spritesheet and XML generator -->
+    <!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+    <SubTexture name="idle0000" x="1159" y="0" width="255" height="2164" frameX="-1861" frameY="2" frameWidth="3840" frameHeight="2160"/>
+    <SubTexture name="idle0001" x="327" y="0" width="293" height="2164" frameX="-1835" frameY="2" frameWidth="3840" frameHeight="2160"/>
+    <SubTexture name="idle0002" x="894" y="0" width="265" height="2164" frameX="-1848" frameY="2" frameWidth="3840" frameHeight="2160"/>
+    <SubTexture name="idle0003" x="0" y="0" width="327" height="2164" frameX="-1812" frameY="2" frameWidth="3840" frameHeight="2160"/>
+    <SubTexture name="idle0004" x="620" y="0" width="274" height="2164" frameX="-1838" frameY="2" frameWidth="3840" frameHeight="2160"/>
+</TextureAtlas>

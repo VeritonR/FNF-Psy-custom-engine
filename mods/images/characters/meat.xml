@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="meat.png">
+<SubTexture name="down0000" x="1091" y="0" width="285" height="327" frameX="0" frameY="0" frameWidth="285" frameHeight="327" />
+<SubTexture name="down0001" x="1091" y="327" width="285" height="327" frameX="0" frameY="0" frameWidth="285" frameHeight="327" />
+<SubTexture name="idle0000" x="324" y="554" width="238" height="429" frameX="0" frameY="0" frameWidth="238" frameHeight="429" />
+<SubTexture name="left0000" x="508" y="0" width="292" height="445" frameX="0" frameY="0" frameWidth="292" frameHeight="445" />
+<SubTexture name="left0001" x="800" y="0" width="291" height="445" frameX="0" frameY="0" frameWidth="291" frameHeight="445" />
+<SubTexture name="right0000" x="562" y="554" width="332" height="429" frameX="0" frameY="0" frameWidth="332" frameHeight="429" />
+<SubTexture name="right0001" x="0" y="554" width="324" height="437" frameX="0" frameY="0" frameWidth="324" frameHeight="437" />
+<SubTexture name="up0000" x="0" y="0" width="254" height="554" frameX="0" frameY="0" frameWidth="254" frameHeight="554" />
+<SubTexture name="up0001" x="254" y="0" width="254" height="554" frameX="0" frameY="0" frameWidth="254" frameHeight="554" />
+</TextureAtlas>

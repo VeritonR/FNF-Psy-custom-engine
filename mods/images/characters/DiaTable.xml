@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DiaTable.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IdleNorm0000" x="0000" y="0000" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="IdleNorm0001" x="0000" y="0000" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="IdleNorm0002" x="1100" y="0000" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="IdleNorm0003" x="1100" y="0000" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="IdleNorm0004" x="2200" y="0000" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="IdleNorm0005" x="2200" y="0000" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="IdleAlt0000" x="3300" y="0000" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="IdleAlt0001" x="3300" y="0000" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="IdleAlt0002" x="4400" y="0000" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="IdleAlt0003" x="4400" y="0000" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="IdleAlt0004" x="5500" y="0000" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="IdleAlt0005" x="5500" y="0000" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="UpNote0000" x="0000" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="UpNote0001" x="0000" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="UpNote0002" x="1100" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="UpNote0003" x="1100" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="UpNote0004" x="1100" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="UpNote0005" x="1100" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="LeftNote0000" x="3300" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="LeftNote0001" x="3300" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="LeftNote0002" x="4400" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="LeftNote0003" x="4400" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="LeftNote0004" x="4400" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="LeftNote0005" x="4400" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="DownNote0000" x="4400" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="DownNote0001" x="4400" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="DownNote0002" x="5500" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="DownNote0003" x="5500" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="DownNote0004" x="5500" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="DownNote0005" x="5500" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="RightNote0000" x="6600" y="0000" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="RightNote0001" x="6600" y="0000" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="RightNote0002" x="0000" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="RightNote0003" x="0000" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="RightNote0004" x="0000" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="RightNote0005" x="0000" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="UpAlt0000" x="2200" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="UpAlt0001" x="2200" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="UpAlt0002" x="3300" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="UpAlt0003" x="3300" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="UpAlt0004" x="3300" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="UpAlt0005" x="3300" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="UpAlt0006" x="3300" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="LeftAlt0000" x="5500" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="LeftAlt0001" x="5500" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="LeftAlt0002" x="6600" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="LeftAlt0003" x="6600" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="LeftAlt0004" x="6600" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="LeftAlt0005" x="6600" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="DownAlt0000" x="6600" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="DownAlt0001" x="6600" y="2200" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="DownAlt0002" x="0000" y="3300" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="DownAlt0003" x="0000" y="3300" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="DownAlt0004" x="0000" y="3300" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="RightAlt0000" x="1100" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="RightAlt0001" x="1100" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="RightAlt0002" x="2200" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="RightAlt0003" x="2200" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="RightAlt0004" x="2200" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+	<SubTexture name="RightAlt0005" x="2200" y="1100" width="1100" height="1100" frameX="0" frameY="0" frameWidth="1100" frameHeight="1100"/>
+</TextureAtlas>

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRIGHT",
+			"loop": false,
+			"name": "john Dance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLEFT",
+			"loop": false,
+			"name": "john Dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Johnny_Bump_Assets",
+	"position": [
+		-450,
+		50
+	],
+	"healthicon": "johnny",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		153,
+		204
+	],
+	"camera_position": [
+		400,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

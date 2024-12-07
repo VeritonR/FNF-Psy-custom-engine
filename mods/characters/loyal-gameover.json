@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "loyal maspine"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "loyal DedLoop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "loyal Enter"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Loyal_GameOver_Assets",
+	"position": [
+		-50,
+		-190
+	],
+	"healthicon": "loyal",
+	"flip_x": true,
+	"healthbar_colors": [
+		150,
+		70,
+		255
+	],
+	"camera_position": [
+		80,
+		60
+	],
+	"sing_duration": 5.8,
+	"scale": 1
+}

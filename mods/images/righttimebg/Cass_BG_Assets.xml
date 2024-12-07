@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cass_BG_Assets.png">
+<SubTexture name="cass danceTrailer0000" x="1371" y="661" width="458" height="657" frameX="-44" frameY="-41" frameWidth="533" frameHeight="705" />
+<SubTexture name="cass danceTrailer0001" x="1371" y="661" width="458" height="657" frameX="-44" frameY="-41" frameWidth="533" frameHeight="705" />
+<SubTexture name="cass danceTrailer0002" x="1371" y="0" width="459" height="661" frameX="-38" frameY="-37" frameWidth="533" frameHeight="705" />
+<SubTexture name="cass danceTrailer0003" x="1371" y="0" width="459" height="661" frameX="-38" frameY="-37" frameWidth="533" frameHeight="705" />
+<SubTexture name="cass danceTrailer0004" x="458" y="675" width="458" height="664" frameX="-35" frameY="-35" frameWidth="533" frameHeight="705" />
+<SubTexture name="cass danceTrailer0005" x="458" y="675" width="458" height="664" frameX="-35" frameY="-35" frameWidth="533" frameHeight="705" />
+<SubTexture name="cass danceTrailer0006" x="0" y="675" width="458" height="669" frameX="-32" frameY="-31" frameWidth="533" frameHeight="705" />
+<SubTexture name="cass danceTrailer0007" x="0" y="675" width="458" height="669" frameX="-32" frameY="-31" frameWidth="533" frameHeight="705" />
+<SubTexture name="cass danceTrailer0008" x="0" y="0" width="457" height="675" frameX="-31" frameY="-25" frameWidth="533" frameHeight="705" />
+<SubTexture name="cass danceTrailer0009" x="0" y="0" width="457" height="675" frameX="-31" frameY="-25" frameWidth="533" frameHeight="705" />
+<SubTexture name="cass danceTrailer0010" x="457" y="0" width="457" height="673" frameX="-31" frameY="-27" frameWidth="533" frameHeight="705" />
+<SubTexture name="cass danceTrailer0011" x="457" y="0" width="457" height="673" frameX="-31" frameY="-27" frameWidth="533" frameHeight="705" />
+<SubTexture name="cass danceTrailer0012" x="914" y="0" width="457" height="672" frameX="-31" frameY="-28" frameWidth="533" frameHeight="705" />
+<SubTexture name="cass danceTrailer0013" x="914" y="0" width="457" height="672" frameX="-31" frameY="-28" frameWidth="533" frameHeight="705" />
+<SubTexture name="cass danceTrailer0014" x="914" y="0" width="457" height="672" frameX="-31" frameY="-28" frameWidth="533" frameHeight="705" />
+<SubTexture name="cass danceTrailer0015" x="914" y="0" width="457" height="672" frameX="-31" frameY="-28" frameWidth="533" frameHeight="705" />
+</TextureAtlas>

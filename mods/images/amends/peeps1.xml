@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="peeps1.png">
+<SubTexture name="idle0000" x="0" y="1100" width="364" height="351" frameX="-17" frameY="-279" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0001" x="364" y="1100" width="363" height="348" frameX="-17" frameY="-282" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0002" x="1411" y="0" width="359" height="353" frameX="-18" frameY="-277" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0003" x="709" y="734" width="357" height="361" frameX="-18" frameY="-269" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0004" x="354" y="734" width="355" height="365" frameX="-19" frameY="-265" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0005" x="0" y="734" width="354" height="366" frameX="-19" frameY="-264" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0006" x="0" y="0" width="355" height="367" frameX="-19" frameY="-263" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0007" x="355" y="0" width="351" height="367" frameX="-19" frameY="-263" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0008" x="706" y="0" width="351" height="367" frameX="-19" frameY="-263" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0009" x="0" y="367" width="353" height="367" frameX="-19" frameY="-263" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0010" x="353" y="367" width="354" height="367" frameX="-19" frameY="-263" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0011" x="1057" y="0" width="354" height="367" frameX="-19" frameY="-263" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0012" x="1057" y="367" width="354" height="367" frameX="-19" frameY="-263" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
