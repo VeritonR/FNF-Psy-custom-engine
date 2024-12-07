@@ -1,6 +1,0 @@
-nothing = on/off
-
-value1
-
-if 1 = stop at left side
-if 2 = reset/swap states
